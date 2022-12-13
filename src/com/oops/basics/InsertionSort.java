@@ -1,5 +1,4 @@
 package com.oops.basics;
-
 public class InsertionSort 
 {
 	static void sort(int array[])
